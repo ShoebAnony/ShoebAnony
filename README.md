@@ -3,7 +3,7 @@
   - 🔭 I’m currently focused on contributing to various open-source projects.<br><br>
   - 🌱 I’m currently expanding my skills in Python with a focus on Software Engineering principles.<br><br>
   -💬 Ask me about software development, open-source collaboration, or anything related to cybersecurity and ethical hacking.<br><br>
-  - 📫 How to reach me: The best way to get in touch is by mentioning me on GitHub at @SHOEBAONY.<br><br>
+  - 📫 How to reach me: The best way to get in touch is by mentioning me on GitHub at @SHOEBANONY.<br><br>
   - ⚡ Fun fact: I'm a grey hat hacker, committed to using my skills to identify and responsibly disclose vulnerabilities.</p>
 
 ###
